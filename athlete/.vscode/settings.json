@@ -1,0 +1,14 @@
+{
+    "editoy.fontSize": 14,
+    "window.zoomLevel": 1,
+    "debug.console.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:athlete}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+}
